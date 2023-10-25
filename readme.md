@@ -1,0 +1,1 @@
+The day 2 task contains Difference between document and windows object.
